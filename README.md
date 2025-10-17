@@ -20,7 +20,7 @@ I'm Jamie!
 It appears that you've stumbled onto nearly-empty GitHub profile. Alas, there's not much to see here, since most of my code is private or proprietary.
 
 ### About Me
-- **Pronouns:** She/Her (Other pronouns are also okay, when not intentionally used disrespectfully.)
+- **Pronouns:** She/Her (He/Him are also fine, if you'rn not being _intentionally_ disrespectful.)
 - **Fun Fact:** My HomeLab runs Kubernetes just for fun. I also love RegEx. I'm _that_ kind of nerd.
 - **LinkedIn:** [jftanner][LinkedIn]
 
